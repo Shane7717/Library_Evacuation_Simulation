@@ -6,7 +6,7 @@
   
 * The aim of this project is to simulate the practical evacuation of students studying at the library in terms of emergency.  
 
-* Related statistic results and the interim research report are also included.
+* Related statistic results and the interim report are also included.
   
 * This project is memorable in a way because in 2020 summer, this library was forever closed, 
 and the building would be further used for other purposes. I really missed the time in the first two years (2017-2019) I spent there.
